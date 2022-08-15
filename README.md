@@ -1,1 +1,3 @@
-# makeGraph
+pong - cumulative reward   
+
+
